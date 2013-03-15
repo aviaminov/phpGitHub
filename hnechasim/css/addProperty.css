@@ -1,0 +1,25 @@
+.frame1{
+    margin-right:12px;
+    margin-top:20px;
+    text-align:right;
+    width:300px;
+    height:500px; 
+    /*border-width:3px;*/
+    background-color:#ededed;
+    border-color:#8A0000;
+    border-style:solid;
+  /*  border-top-left-radius: 100px 100px;
+    border-top-right-radius: 15px 15px;*/
+}
+
+.h1frame1 {
+    padding-right:20px;
+    background-color:#8A0000;
+    font-size:large;
+    color: white; 
+    width:280px;
+    height:25px; 
+    text-align:right;
+   /* border-top-left-radius: 1000px 500px;
+    border-bottom-right-radius: 15Px 15px;*/
+}
